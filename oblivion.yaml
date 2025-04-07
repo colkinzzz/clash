@@ -1,6 +1,6 @@
 proxy-providers:
   SYN:
-    url: "https://acl.syyn.pw/api/v1/client/subscribe?token=b2d1df3cd4b36abe01bf2071eb91a942"
+    url: ""
     type: http
     interval: 86400
     health-check:
